@@ -1,0 +1,40 @@
+# STM32CubeIDE build folders
+Debug/
+Release/
+
+# Object/binary files
+*.o
+*.d
+*.su
+*.elf
+*.map
+*.list
+*.hex
+*.bin
+
+# CubeIDE / Eclipse settings
+.settings/
+.metadata/
+*.launch
+
+# Temporary/editor files
+*.tmp
+*.bak
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# CMake (if ever used)
+build/
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# VSCode
+.vscode/
+
+# CLion
+.idea/
